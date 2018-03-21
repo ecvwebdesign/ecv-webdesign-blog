@@ -2,6 +2,7 @@
 layout: post
 title:  "Cool thing"
 date:   2018-03-11 10:34:58 +0100
+intro : Ceci est article à propos de ce qui doit être fait.
 categories: jekyll update
 ---
 Bla bla bal bla Blue cake rocks!
