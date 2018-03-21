@@ -186,9 +186,15 @@
 .post-list {
   margin-left: 0;
   list-style: none;
-
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   > li {
-    margin-bottom: $spacing-unit;
+    flex: 1 0 200px;
+    margin: 0 0 20px 20px;
+    padding: 20px;
+    width: auto;
+    height: auto;
   }
 }
 

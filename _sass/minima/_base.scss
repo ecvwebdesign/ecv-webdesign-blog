@@ -37,8 +37,6 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
-
 /**
  * Images
  */
@@ -83,6 +81,19 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  font-family: verdana;
+}
+
+h2 a {
+  font-weight: bold;
+  color : #4A4A4A;
+  text-transform: uppercase;
+  &::after {
+    content : " ";
+    display : block;
+    max-width: 100px;
+    border-bottom: 4px solid #2ABF9D;
+  }
 }
 
 
@@ -163,20 +174,9 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
-  @extend %clearfix;
-
-  @include media-query($on-laptop) {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-  }
+    min-width: 320px;
+      width: 90%;
+      margin: 0 auto;
 }
 
 

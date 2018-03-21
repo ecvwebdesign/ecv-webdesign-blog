@@ -2,6 +2,7 @@
 layout: post
 title:  "Plugin CSS Peeper"
 date:   2018-03-02 10:34:58 +0100
+intro : Ceci est article à propos de ce qui doit être fait.
 categories: jekyll update
 ---
 Si la fenêtre de l’inspecteur t’angoisse alors CSS Peeper est ce qu’il te faut. Lorsque tu tapes fièrement ta commande cmd+alt+i sur ta page pour découvrir les dessous de l’interface, tout ce code te fais mal à la tête et tu ne sais plus où et quoi regarder pour retrouver ce que tu cherches.  CSS Peeper est un plugin de Google Chrome (donc oui il te faut utiliser chrome mais tu le savais que safari et mozilla étaient dépassés).
