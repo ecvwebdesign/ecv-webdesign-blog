@@ -21,4 +21,4 @@ Je t’invite à directement regarder cette vidéo : <iframe width="560" height=
 Et tu connais pas la meilleure ?
 Ce script est en open source via ce lien GIT : https://github.com/esimov/caire
 
-À toi de coder !s
+À toi de coder !
