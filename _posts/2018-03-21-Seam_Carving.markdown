@@ -2,8 +2,12 @@
 layout: post
 title:  "Le Seam Carving"
 date:   2018-03-05 10:34:58 +0100
+intro: Si vous aussi vous avez peur des images déformées, des images trop grandes, ou trop petites pour être
+à leur place... cet article est fait pour vous !
 categories: OUTILS CODE
 ---
+
+![SEAM CARVING](../../../../../assets/images/2018-03-05-Seam-Carving.jpg){:class="img-responsive"}
 
 Qu’est-ce que le Seam Carving ? C’est littéralement le découpage de contours de n’importe quelle photo. Ariel Shamir
 et Shai Avidan sont deux chercheurs qui ont trouvé (pun non-intended) un algorithme permettant de redimensionner n’importe quelle image sans pour autant la , comme vous l’avez probablement déjà fait…
