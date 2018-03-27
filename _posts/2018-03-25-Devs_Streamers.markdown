@@ -8,10 +8,10 @@ categories: OUTILS CODE
 
 ![DEVS STREAM](../../../../../assets/images/2018-03-25-devstreamers.jpg){:class="img-responsive"}
 
-Alors oui, ou non, peut être que vous aimez bien, après une journée fatigante, lorsque vous rentrez chez vous allumer votre PC ( ou votre Macintosh, on ne juge pas ) et vous connecter à  Twitch.tv, afin de vous détendre devant de bons petits streams vidéo-ludiques. Un peu de Player’s Unknown Battlegrounds, de Fortnite ou encore d’Overwatch ici et là.
+Peut être aimes-tu, après une journée fatigante, rentrer chez toi et allumer ton PC (ou Macintosh, on ne juge pas) et te connecter à Twitch.tv, afin de te détendre devant de bons petits streams vidéo-ludiques. Un peu de Player’s Unknown Battlegrounds, de Fortnite ou encore d’Overwatch ici et là.
 
-Mais ce que vous ignorez peut être, c’est que les DEVS streament aussi ! Compliqué de les trouver ? Vous seriez intéressé par un seul type de code en particulier ?
+Mais ce que tu ignores peut-être, c’est que les DEVS streament aussi ! Compliqué de les trouver ? Tu serais intéressé par un seul type de code en particulier ?
 
-Aucun soucis, voici un lien Github : https://github.com/bnb/awesome-developer-streams qui référence la plupart des devstreamers ( ça en jette non ? ).
+Aucun soucis, voici un lien Github : https://github.com/bnb/awesome-developer-streams qui référence la plupart des devstreamers (ça en jette non ?).
 
-Alors quitte le stream de Ninja ou Dr.Disrespect et va dire bonjour, allez allez !
+Alors quitte le stream de Ninja ou Dr.Disrespect et va dire bonjour (emote HelloGuys), allez allez !
