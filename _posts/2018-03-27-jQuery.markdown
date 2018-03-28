@@ -2,11 +2,10 @@
 layout: post
 title:  "À quoi sert Jquery ?"
 date:   2018-03-27 22:34:58 +0100
-intro : 
+intro : Jquery est un frameworks de JavaScript, mais à quoi sert t-il ?!
 categories: outils
 ---
 
-Introduction : Jquery est un frameworks de JavaScript, mais à quoi sert t-il ?!
 
 Tout d’abord, il faut que tu saches que jQuery, est un framework JavaScript ! Comme tu le sais, toutes les pages web sont composées de beaucoup de technologies différentes.
 
