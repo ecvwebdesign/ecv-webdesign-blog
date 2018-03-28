@@ -2,7 +2,7 @@
 layout: post
 title:  "Le design émotionel"
 date:   2018-03-02 10:34:58 +0100
-intro : 
+intro : Comment et pourquoi intégrer des éléments qui suscitent de l'émotion sur tes sites
 categories: UX / UI
 ---
 

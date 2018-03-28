@@ -2,10 +2,9 @@
 layout: post
 title:  "Kinetic E-mails Design"
 date:   2018-03-02 10:34:58 +0100
-intro : 
+intro :  Transforme tes emails en machines de guerre du marketing
 categories: UX
 ---
- Transforme tes emails en machines de guerre du marketing
 
   Les emails animés et interactifs sont de plus en plus présents dans ta boite mail ? Affirmatif ! Les newsletters classiques et figées sont dépassées et ont perdu tout intérêt devant les atouts dynamisants (et marketing) du Kinetic e-mail design. Animation, roll over, slideshow automatique et menu intégré, tout élément cinétique est un moyen innovant pour capter l’attention dans cet environnement surchargé qu’est la boite mail. Avec plus de 200 milliards d’emails échangés chaque jour dans le monde, il faut savoir se démarquer pour ne pas être noyé dans la masse.
 

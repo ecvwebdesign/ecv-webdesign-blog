@@ -2,7 +2,7 @@
 layout: post
 title:  "Plugin CSS Peeper"
 date:   2018-03-02 10:34:58 +0100
-intro : 
+intro : Une fenêtre d'inspection plus graphique 
 categories: Outils
 ---
 
