@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Stay Gitted !"
+date:   2018-03-25 10:34:58 +0100
+intro: "Github toujours à porté dans ton navigateur, simplifie-toi la vie !"
+categories: OUTILS
+---
+
+![DEVS STREAM](../../../../../assets/images/2018-03-25-devstreamers.jpg){:class="img-responsive"}
+
+Si tu es un habitué de la plateforme Github, l’extension GitHunt est faite pour toi !
+Téléchargeable ici ou sur le web store de Google Chrome !
+Elle te permet d’afficher les dernières tendances sur Github, comme les repositories les plus consultés du moment !
+Lorsque tu ouvres un nouvel onglet, un système de tri s’offre à toi et tu peux choisir sur quelle période et en quel langage de code tu veux consulter les dernières trend !
+
+Pratique pour se familiariser avec cet outil quasi-indispensable et avoir une veille de niche !

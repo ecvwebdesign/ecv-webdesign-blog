@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "De l’importance des polices dans le web"
+date:   2018-03-13 01:12:58 +0100
+categories: Outils
+---
+
+Les polices dans le web, ça fait un moment qu’on en parle, surtout lorsqu’on aborde le sujet de la lisibilité. Mais ce n’est pas le seul aspect sur lequel une font a une influence sur un site.
+
+Si on te dit que shopify.com a diminué son temps de chargement PAR 2 avec 17 petites lignes de code qui modifient le chargement de leurs polices… <a href="https://shopifyengineering.myshopify.com/blogs/engineering/how-17-lines-of-code-improved-shopify-com-loading-by-50"> C’est vrai, la preuve est ici  !</a>
+Ou bien que Netflix va économiser plusieurs millions de dollars par an juste en ayant créé sa propre police… <a href="https://www.capital.fr/entreprises-marches/netflix-cree-sa-propre-police-de-caracteres-pour-economiser-des-millions-de-dollars-par-an-1278936"> Ça non plus ce n’est pas une blague. </a>
+
+Alors ? Je parie que tu es définitivement convaincu(e) de l’importance d’une police web !
+
+Comme va te l’apprendre cet article publié sur alsacréations, la majorité des sites webs nous proposent, aujourd’hui, de télécharger une police personnalisée. Or un fichier de police pèse en moyenne 100ko… Imagine l’importance de ce chargement lorsque tu consultes un site en 4G.
+
+Ainsi, tu vas découvrir que les fichiers de polices font partie de ces ressources qui peuvent être bloquantes. Pour éviter donc que tu aies une page blanche tant que ces fichiers ne sont pas chargés, les navigateurs ont mit en place deux déroulements possibles. Et à ce niveau, deux écoles s’affrontent : le FOUT et le FOIT.
+
+Ne t’inquiète pas petit Padawan on va expliquer en quelques lignes ces acronymes un peu barbares.
+Tu noteras que ce sont des abréviations de mots anglais, évite donc de les prononcer en français au risque de passer pour quelqu’un de bizarre…
+
+Le FOUT (Flash Of Unstyled Text) : en attendant que la police soit chargée, les navigateurs qui utilisent cette technique (IE) t’affichent le texte avec une police système (Arial, Verdana, Times New Roman…) ; une fois la font personnalisée chargée, elle s’affiche et prend la place de la font système.
+
+le FOIT (Flash Of Invisible Text) : ici, lorsque le navigateur attend la font personnalisée, il n’affiche rien. Le texte n’est visible qu’une fois que la police est chargée. C’est le cas entre autre de Safari et du navigateur d’Android.
+
+Les trois gros que sont Chrome, Mozilla et Opera ont fait un mix entre les deux. C’est à dire que pendant 3 secondes ils n’affichent rien, et si au terme de ces 3 (interminables) secondes la police n’est toujours pas chargée, ils affichent le texte avec une police système.
+
+Maintenant que tu as appris le jargon de gestion des fontes sur le web, cet article t’apprendra comment optimiser tes fichiers ou bien comment « détourner » la synchronisation de chargement des ressources.
+
+Tu as tous les outils en main pour qu’une font devienne un moyen de sublimer le design de ton site et non le mastodonte qui fait que ta page ne charge pas.
