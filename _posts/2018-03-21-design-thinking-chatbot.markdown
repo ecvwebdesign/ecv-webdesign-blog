@@ -12,6 +12,8 @@ Mais à quel prix ? Si nous passons davantage de temps avec des robots qu’avec
 
 En appliquant les principes clés du design thinking à nos « conversational technology design process », on met en avant les opportunités de rendre ces interfaces centrées sur l’utilisateur. Au lieu de les faire le plus efficace possible, on réserve des moments de surprise et de plaisir qui encouragent les utilisateurs à revenir.
 
+![CHATBOT](../../../../../assets/images/2018-03-21-chatbot.png){:class="img-responsive"}
+
 Jetons un oeil aux possibilités que laisse le design d’un chatbot (l’une des techniques de conversation les plus accessibles) et aux manières d’utiliser le design thinking pour améliorer l’expérience, et sur le long terme, atteindre les objectifs de business.
 La première des choses : Les besoins, en opposition aux envies.
 La première des étapes dans le design d’un bon chatbot est de se demander : « a-t-on réellement besoin d’un chatbot ? » Pourquoi utilise-t-on un chatbot ? Où voulez-vous amener vos utilisateurs ? Les « pourquoi » du design devraient toujours être posés avant les « comment » ? Si vous tentez de résoudre beaucoup de problèmes techniques en peu de temps, vous pouvez monter un nouveau chatbot ou embaucher de nouveaux collaborateurs !
