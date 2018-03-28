@@ -2,10 +2,9 @@
 layout: post
 title:  "Qu’est-ce que Bootstrap ?"
 date:   2018-03-27 22:34:58 +0100
-intro : 
+intro : Tu crées des pages web et tu passes beaucoup (trop) de temps avec le CSS? Bootstrap peut t'aider !
 categories: outils
 ---
-Introduction : Tu crées des pages web et tu passes beaucoup (trop) de temps avec le CSS? Bootstrap peut t'aider !
 
 Bootstrap ? Qu’est-ce donc ? Si tu possèdes un site Internet, tu as probablement déjà croisé le mot "Bootstrap" en parcourant des articles de web-design et de développement.
 
