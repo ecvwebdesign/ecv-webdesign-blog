@@ -2,8 +2,7 @@
 layout: post
 title:  "Le Seam Carving"
 date:   2018-03-21 10:34:58 +0100
-intro: Si vous aussi vous avez peur des images déformées, des images trop grandes, ou trop petites pour être
-à leur place... cet article est fait pour vous !
+intro: Si vous aussi vous avez peur des images déformées, des images trop grandes, ou trop petites pour être à leur place... cet article est fait pour vous !
 categories: OUTILS CODE
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Qu’est-ce que Bootstrap ?"
 date:   2018-03-27 22:34:58 +0100
+intro : 
 categories: outils
 ---
 Introduction : Tu crées des pages web et tu passes beaucoup (trop) de temps avec le CSS? Bootstrap peut t'aider !

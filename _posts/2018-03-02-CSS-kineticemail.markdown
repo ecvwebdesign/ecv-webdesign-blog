@@ -2,6 +2,7 @@
 layout: post
 title:  "Kinetic E-mails Design"
 date:   2018-03-02 10:34:58 +0100
+intro : 
 categories: UX
 ---
  Transforme tes emails en machines de guerre du marketing

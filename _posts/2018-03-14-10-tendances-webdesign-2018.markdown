@@ -2,6 +2,7 @@
 layout: post
 title:  "Les 10 grandes tendances 2018 du web design"
 date:   2018-03-12 10:34:58 +0100
+intro : 
 categories:
 ---
 
