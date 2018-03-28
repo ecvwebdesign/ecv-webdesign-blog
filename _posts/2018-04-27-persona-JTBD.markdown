@@ -3,7 +3,6 @@ layout: post
 title:  "Persona : pourquoi continuer à en faire (ou pas) ?"
 date:   2018-04-27 14:00:00 +0100
 intro: Face au “Jobs-to-be-done”, le persona est-il encore utile ?
-
 categories: jekyll update
 ---
 

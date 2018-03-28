@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Plugin CSS Peeper"
+title:  "Design thinking pour les chatbots"
 date:   2018-03-21 16:51:58 +0100
 intro : Apprenez à établir un design thinking efficace pour vos chatbots.
 categories: jekyll update
 ---
-Design thinking pour les chatbots
+
 
 Chatbots, intelligence artificielle et assistants vocaux, sont en train de percer comme les nouveaux éléments qui vont guider notre futur.
 Mais à quel prix ? Si nous passons davantage de temps avec des robots qu’avec des êtres constitués de chair, devons nous s’appliquer à donner à ces interfaces une dimension humaine ?

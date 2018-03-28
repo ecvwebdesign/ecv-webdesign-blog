@@ -2,6 +2,7 @@
 layout: post
 title:  "Le design émotionel"
 date:   2018-03-02 10:34:58 +0100
+intro : 
 categories: UX / UI
 ---
 

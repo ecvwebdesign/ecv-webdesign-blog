@@ -2,6 +2,7 @@
 layout: post
 title:  "30 Seconds of CSS"
 date:   2018-03-12 10:34:58 +0100
+intro : 
 categories: HTML/CSS
 ---
 On a trouvé comment mettre d'accord les intégrateurs et les designers en 30 secondes seulement...

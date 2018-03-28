@@ -2,6 +2,7 @@
 layout: post
 title:  "Diesel responsive lookbook"
 date:   2018-03-10 22:34:58 +0100
+intro : 
 categories: jekyll update
 ---
 Le responsive au service du jean. (Oui, tu as bien lu !)

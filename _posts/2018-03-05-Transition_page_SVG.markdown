@@ -2,6 +2,7 @@
 layout: post
 title:  "Transition de pages 'morphing' en SVG"
 date:   2018-03-10 10:34:58 +0100
+intro : 
 categories: webdesign traduction
 ---
 
