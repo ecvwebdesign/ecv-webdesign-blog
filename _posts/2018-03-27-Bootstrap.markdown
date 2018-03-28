@@ -6,6 +6,12 @@ intro : Tu crées des pages web et tu passes beaucoup (trop) de temps avec le CS
 categories: outils
 ---
 
+
+
+![CHATBOT](../../../../../assets/images/2018-03-28-Bootstrap.jpg){:class="img-responsive"}
+
+
+
 Bootstrap ? Qu’est-ce donc ? Si tu possèdes un site Internet, tu as probablement déjà croisé le mot "Bootstrap" en parcourant des articles de web-design et de développement.
 
 Tu as aussi peut-être entendu le terme pendant une conversation entre designers ou dans un cours de web. Mais sais-tu pourquoi tu devrais t’intéresser plus sérieusement à Bootstrap ? Non ? Et bien prends place, et laisse moi te raconter l’histoire de Bootsrap !

@@ -6,6 +6,7 @@ intro : Jquery est un frameworks de JavaScript, mais à quoi sert t-il ?!
 categories: outils
 ---
 
+![CHATBOT](../../../../../assets/images/2018-03-28-JQuery.jpg){:class="img-responsive"}
 
 Tout d’abord, il faut que tu saches que jQuery, est un framework JavaScript ! Comme tu le sais, toutes les pages web sont composées de beaucoup de technologies différentes.
 
