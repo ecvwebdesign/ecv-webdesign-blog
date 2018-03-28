@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "À quoi sert Jquery ?"
+date:   2018-03-27 22:34:58 +0100
+categories: outils
+---
+
+Introduction : Jquery est un frameworks de JavaScript, mais à quoi sert t-il ?!
+
+Tout d’abord, il faut que tu saches que jQuery, est un framework JavaScript ! Comme tu le sais, toutes les pages web sont composées de beaucoup de technologies différentes.
+
+Et comme si ce n'était pas assez complexe, ces coquins d’informaticiens ont eu la bonne idée de nous compliquer encore plus la tâche, en faisant en sorte que toutes ces technologies puissent interagir entre elles.
+
+Parmi ces technologies qui sont fréquemment utilisées sur le web, on retrouve les standards HTML5 et CSS3 mais aussi des langages plus “barbares" qui permettent de dynamiser les pages web ; l’un d’entre eux est JavaScript.
+
+De JavaScript à jQuery
+
+JavaScript a su, au fil des années, s'imposer comme une technologie vraiment incontournable dans le web. Le nombre de sites qui utilisent désormais JavaScript est tout simplement gigantesque.
+
+Alors très rapidement, ses utilisateurs ont voulu faire évoluer JavaScript. Ils ont voulu que le langage puisse faire toujours plus de choses, toujours plus proprement et toujours plus simplement. C'est dans cet esprit que la communauté de JavaScript a développé des frameworks. L'un d'eux, le plus utilisé, que l'on retrouve partout sur le web : jQuery !
+
+jQuery et les animations
+
+L'un des éléments incontournables de jQuery et qui a fait son succès est incontestablement la possibilité de créer des effets sur sa page. Envie de faire disparaître un bloc avec un effet de fondu, ou bien faire trembler un bouton “submit” sur ta page web ? Pas de problèmes ! jQuery le fait pour toi !
+
+jQuery et les formulaires
+
+Un des points forts de jQuery est le pré-traitement des formulaires HTML, de manière très avancée. Comme par exemple vérifier quels types de champs a mal été rempli et le signaler au visiteur.
+
+Et c'est sans parler de tous les outils disponibles que jQuery t’offre, pour manipuler aisément le DOM... Pas de lézards, jQuery est le choix pour lequel tu dois opter aujourd'hui pour donner une nouvelle dimension à tes futurs sites !
+
+Des sites qui utilisent jQuery
+
+jQuery est le framework JavaScript le plus utilisé sur le web ! Voici quelques grands noms du web qui l’utilisent aujourd'hui :
+
+Google et ses différents services
+Mozilla
+Amazon
+
+Sache également que les CMS comme Drupal et Wordpress utilisent jQuery ! Tu ne peux donc définitivement pas passer à côté.
+
+Si jamais tu souhaites en apprendre plus sur le fonctionnement de jQuery, je te conseille les cours de la Khan Academy traitant du sujet !
+
+HTML/JS : faire des pages Web interactives avec jQuery :
+https://fr.khanacademy.org/computing/computer-programming/html-js-jquery

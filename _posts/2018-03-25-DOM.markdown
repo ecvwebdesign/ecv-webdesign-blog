@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Qu'est-ce que le DOM ?"
+date:   2018-03-13 22:34:58 +0100
+categories: histoire
+---
+Un jour, dans un tuto pour apprendre Jquery, on m’a parlé du DOM, tu ne connais pas le DOM ? Mais si, le DOM ! Le Document Object Model voyons !
+
+Bon, effectivement, pour moi aussi ça a été un peu obscur la première fois…  Alors, regardons cela de plus près !
+
+Le DOM est-il le HTML que j'écris ?
+
+Non, pas vraiment, mais le HTML que tu écris est analysé par le navigateur et il est transformé en DOM !
+
+
+Du coup, le "View Source" est le DOM ?
+
+Non, pas vraiment, View Source te montre le HTML qui constitue une page. Mais il est vrai que c'est probablement la même chose que le HTML que tu as écrit.
+
+L’outil View Source est un peu bizarre, les seules personnes qui s’en préoccupent sont les développeurs. Car les principaux navigateurs ont des outils développeurs maintenant, alors il est sans doute un peu dépassé aujourd'hui.
+
+
+Le code de l’inspecteur est le DOM ?!
+
+Ouaiiis, d'une certaine façon, c’est ça ! Quand tu regardes l'affichage de n'importe quel inspecteur web, cela te permet d’avoir une représentation visuelle du DOM !!
+
+
+Mmmmh .. Oui, mais ça ressemble exactement à mon HTML ?
+
+Eh bien, oui, ça y ressemble. Et c’est normal, il a été créé directement à partir de ton HTML …
+
+C’est un peu paradoxal mais le DOM regroupe toutes les informations interprétées par ton navigateurs ( html, css, java script ) et les centralise dans une interface graphique. À partir du DOM, tu peux donc modifier ta page dès lors que ces modifications sont reportées à l'écran.
+
+Maintenant tu sais ! Le DOM est simplement l’interface à laquelle tu accèdes quand tu inspectes une page web !
