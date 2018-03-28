@@ -4,7 +4,11 @@ title:  "Créer un Style Guide"
 date:   2018-03-25 14:00:00 +0100
 intro:  Comprendre et créer un style guide c’est facile !
 categories: UI Outils
+preview : 2018-03-25-StyleGuide.jpg
 ---
+
+![CHATBOT](../../../../../assets/images/2018-03-25-StyleGuide.jpg){:class="img-responsive"}
+
 Tout d’abord qu’est-ce qu’un style guide ?
 Le styleguide est aujourd’hui, dans les métiers du web design, un document indispensable dans le suivi de la cohérence graphique au sein d’un même projet. Il rassemble tout le travail effectué concernant le design et évolue en fonction des modifications apportées au projet.
 Le travail d’alimentation du style guide n’est plus réservé, comme il l’était avant, aux développeurs. Les designers graphiques participent aussi activement à son élaboration et se doivent donc de comprendre son fonctionnement. Concrètement un styleguide n’est ni plus ni moins qu’un document html regroupant tous les boutons, effets, interactions, images du projet. Il s’agit alors de coder ces éléments afin que les développeurs les intègrent ensuite dans le site ou l’application finale.
