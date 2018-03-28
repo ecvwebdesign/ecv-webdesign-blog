@@ -2,7 +2,7 @@
 layout: post
 title:  "Des Devs Streamers !"
 date:   2018-03-25 10:34:58 +0100
-intro: Aujourd'hui on vous parle des streamers ! Et pas n'importe lesquels : Les développeurs-streamers !
+intro: Aujourd'hui on vous parle des streamers ! Et pas n'importe lesquels...
 categories: OUTILS CODE
 ---
 

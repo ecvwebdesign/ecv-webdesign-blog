@@ -2,10 +2,9 @@
 layout: post
 title:  "Qu'est-ce que le DOM ?"
 date:   2018-03-13 22:34:58 +0100
-intro : 
+intro : Un jour, dans un tuto pour apprendre Jquery, on m’a parlé du DOM, tu ne connais pas le DOM ? Mais si, le DOM ! Le Document Object Model voyons !
 categories: histoire
 ---
-Un jour, dans un tuto pour apprendre Jquery, on m’a parlé du DOM, tu ne connais pas le DOM ? Mais si, le DOM ! Le Document Object Model voyons !
 
 Bon, effectivement, pour moi aussi ça a été un peu obscur la première fois…  Alors, regardons cela de plus près !
 
