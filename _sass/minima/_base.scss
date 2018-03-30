@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
+  background-color: #E0E0E0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -84,15 +84,19 @@ h1, h2, h3, h4, h5, h6 {
   font-family: verdana;
 }
 
-h2 a {
+h2 {
   font-weight: bold;
   color : #4A4A4A;
+  text-align: center;
   text-transform: uppercase;
   &::after {
     content : " ";
     display : block;
     max-width: 100px;
     border-bottom: 4px solid #2ABF9D;
+    position: relative;
+    left : 50%;
+    transform: translateX(-50%);
   }
 }
 
@@ -212,4 +216,19 @@ pre {
   li + li {
     padding-top: 5px;
   }
+}
+
+
+.post-cat {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -3em;
+  width : 100px;
+  height: 100px;
+  margin: 0 auto;
+  border-radius: 100%;
+  background-color: #fff;
 }
