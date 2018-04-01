@@ -6,7 +6,7 @@ intro: Entre nous, c’est pas plus ou moins la même choses ?
 categories: jekyll update
 ---
 
-![wireframeprototype screenshot](../../../../../assets/images/2018-03-27-wireframe-prototype/2018-03-27-wireframe-prototype-01.jpg){:class="img-responsive"}
+![wireframeprototype screenshot](../../../../../assets/images/2018-03-27-wireframe-prototype-01.jpg){:class="img-responsive"}
 
 Pas mal de personne (et de designer) utilisent à tord les termes wireframe et prototype. Ils savent qu’ils font parti du processus de design, mais ne sont-ils pas similaire sur la forme et les fonctionnalités ? Ne sont-ils pas interchangeable ? N’est-ce pas, plus ou moins, la même choses ?
 
