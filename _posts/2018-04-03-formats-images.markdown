@@ -9,17 +9,16 @@ categories: OUTILS
 ---
 
 
-Les bons p’tits formats qui nous triturent l’esprit tellement souvent - du moins au début - qu’on en oublie leurs avantages et inconvénients et qu’on balance une sauce PNG à tout va en pensant qu’on a assuré.
+Les bons formats d'image, qui nous triturent l’esprit tellement souvent - du moins au début - qu’on en oublie leurs avantages et inconvénients et qu’on balance un PNG à tout va en pensant qu’on a assuré.
 
-Et oui, il s’agirait de grandir (- Hubert Bonisseur de La Bath) et d’apprendre enfin quoi est pour qui ! (ou qui et pour quoi ?).
+Et oui, il s’agirait de grandir (- Hubert Bonisseur de La Bath) et d’apprendre enfin quoi est pour qui ! (ou qui est pour quoi ?)
 
-On connait tous le GIF, on est largement bombardé h24 sur les réseaux. Mais saches que tu peux utiliser ce format pour intégrer tes pictos sur ton siteweb ! Et ouais ! Globalement le .GIF c’est surtout pour les petits trucs pas lourds, en couleur.
-Le PNG c’est plutôt pour les images de bonne qualité, ou surtout pour les logos ou autre avec un fond transparent !
+Dans cet article tu trouveras une inforgraphie qui regroupe un tas d'informations sur ces extensions. Des plus utiles (leurs meilleurs usages, si elles intègrent la transparence ou pas...), à celles qui le sont un peu moins mais qui peuvent t'intéresser (le nom du crétaeur des .gif, pourquoi est-ce que cela a été inventé...).
 
-Personnellement j’utilise à foison le PNG mais le JPEG est généralement utilisé pour tout le reste. (Le truc chiant avec le JPEG, c’est qu’il ne permet pas la transparence).
+Un dernier point, et pas des moindres, cet articles met un terme à un débat de première importance : gif, ça se prononce "gif" ou "jif" ? Si tu veux savoir le fin mot de l'histoire, tu peux parcourir cet article :
 
-Si tu cherches à en savoir un peu plus sur le lore de ces formats, je t’invite à aller consulter ce site : https://www.whoishostingthis.com/blog/2014/12/06/jpeg-gif-png/
+https://www.whoishostingthis.com/blog/2014/12/06/jpeg-gif-png/
 
-Tu y trouveras une belle infographie qui t’expliquera tout ! Avec un petit condensé à la fin également !
+Tu y trouveras une belle infographie qui t’expliquera tout ce que tu dois savoir !
 
 Bonne pioche !
