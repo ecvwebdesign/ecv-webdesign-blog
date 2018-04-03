@@ -3,7 +3,7 @@ layout: post
 title:  "JPEG,PNG ou GIF ?"
 date:   2018-04-03 10:34:58 +0100
 intro: "La trinité de l’horreur : JPEG, PNG et GIF. Lequel choisir, quand et pourquoi ?"
-preview : 2018-04-03-formats-images.jpg
+preview : 2018-04-03-formats-images-preview.jpg
 
 categories: OUTILS
 ---
