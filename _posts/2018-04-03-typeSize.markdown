@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Adapter les tailles de la police selon le support"
+date:   2018-04-03 14:00:00 +0100
+intro:  Un site ou une application n’est utilisable seulement si on s’assure que le contenu puisse être lu aisément par tout le monde.
+categories: UI Outils
+preview : 2018-04-03-TaillePolice.jpg
+---
+
+![CHATBOT](../../../../../assets/images/2018-04-03-TaillePolice.jpg){:class="img-responsive"}
+
+C’est un des principes les plus importants en web design, pour rendre un site web ou une application utilisable il faut s'assurer que tout le monde puisse lire son texte, sur n’importe quel type d’appareil, dans toutes les conditions possibles existantes. En effet, aujourd’hui, on ne consulte plus seulement un site sur un ordinateur, mais aussi sur sa tablette ou son smartphone. Il faut alors que le contenu s’adapte au contenant sans pénaliser la lecture des textes.
+Autre point à prendre en compte, et tu peux le constater assez facilement en regardant autour de toi : quand tu lis un article sur ton smartphone, tu te tiens automatiquement à une certaine distance pour te permettre de lire aisément l’écran. Et cette distance du corps vis à vis de l’appareil change aussi en fonction de la taille de l’écran. Généralement plus l’écran est grand plus l’utilisateur s’en tient éloigné. Mais cela peut varier car chacun a sa manière d’utiliser ces appareils et cela varie encore plus selon le contexte.
+
+Pour comprendre comment, nous, designers, pouvons nous adapter à ces contraintes, je te conseille de lire l’article (en anglais) très complet de Steven Hoober <a href="https://www.uxmatters.com/mt/archives/2015/09/type-sizes-for-every-device.php">“Type Sizes for Every Device”</a> paru le 7 Septembre 2015 sur le site UXmatters.com.
