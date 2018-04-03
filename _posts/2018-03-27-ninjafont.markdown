@@ -6,6 +6,10 @@ intro : Tu cherches le nom de la font qui est utilisée pour ce Titre ? What the
 categories: outils
 ---
 
+
+![CHATBOT](../../../../../assets/images/2018-03-28-Whatthefont.jpg){:class="img-responsive"}
+
+
 Imaginons que tu tombes sur un site qui utilise une police de caractères sympa, et que tu tu veuilles la réutiliser, tu as plusieurs moyens d’en découvrir le nom :
 
 Demander à des gens : Mais ça risque d’être long et le résultat n’est pas garanti ! Suivant à qui tu t’adresses, on risque même de te réorienter vers Dafont… Outch !
