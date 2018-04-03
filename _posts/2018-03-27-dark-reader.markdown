@@ -3,11 +3,12 @@ layout: post
 title:  "Une extension pour les nolife !"
 date:   2018-03-25 10:34:58 +0100
 intro: Tu ne vas pas regretter d’avoir cliqué sur cet article ! Je peux déjà sentir que tu as les noeils qui piquent n’est-ce pas ?
+preview : 2018-03-25-Dark-Reader.jpg
 
 categories: OUTILS
 ---
 
-![DEVS STREAM](../../../../../assets/images/2018-03-25-devstreamers.jpg){:class="img-responsive"}
+![DEVS STREAM](../../../../../assets/images/2018-03-25-Dark-Reader.jpg){:class="img-responsive"}
 
 Oh ! Bonjour !
 
