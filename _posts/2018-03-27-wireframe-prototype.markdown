@@ -5,7 +5,7 @@ date:   2018-03-27 14:00:00 +0100
 intro: Entre nous, c’est pas plus ou moins la même choses ?
 categories: UI
 preview: 2018-03-27-wireframe-prototype-preview.jpg
-main-image: 2018-03-27-wireframe-prototype-main-image.jpg
+main-image: 2018-03-27-wireframe-prototype-main.jpg
 ---
 
 Pas mal de personne (et de designer) utilisent à tord les termes wireframe et prototype. Ils savent qu’ils font parti du processus de design, mais ne sont-ils pas similaire sur la forme et les fonctionnalités ? Ne sont-ils pas interchangeable ? N’est-ce pas, plus ou moins, la même choses ?

@@ -4,7 +4,7 @@ title:  "UX, UI : c’est différent et c’est pas pareil"
 date:   2018-04-04 14:00:00 +0100
 intro: Deux mots souvent utilisé dans le milieu du webdesign, pourtant ils sont souvent confondus...
 preview: 2018-04-04-UX-UI-difference-preview.jpg
-main-image: 2018-04-04-UX-UI-difference-maint-image.jpg
+main-image: 2018-04-04-UX-UI-difference-main.jpg
 categories: UX
 ---
 
