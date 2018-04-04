@@ -4,10 +4,9 @@ title:  "Windows loves Sketch"
 date:   2018-04-03 14:00:00 +0100
 intro:  Un outil qui réconcilie les utilisateurs de Windows avec Sketch.
 categories: Outils
-preview : 2018-03-25-StyleGuide.jpg
+preview : 2018-04-03-lunacy-preview.jpg
+main-image : 2018-04-03-lunacy-main.jpg
 ---
-
-![CHATBOT](../../../../../assets/images/2018-03-25-StyleGuide.jpg){:class="img-responsive"}
 
 Nous pensons aussi à toi, utilisateur de Windows, espèce en voie de disparition. Cet article t'est même destiné !
 
