@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting" style="background : url('../../../../../assets/images/{{ page.preview }}') no-repeat top center; background-size : contain">
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting" style="background : url('../../../../../assets/images/{{ page.main-image }}') no-repeat top center; background-size : contain">
 
   <div class="post-content" itemprop="articleBody">
 
@@ -9,7 +9,7 @@ layout: default
       <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          {% assign date_format = site.minima.date_format | default: "%-d/%m/%Y" %}
           {{ page.date | date: date_format }}
         </time>
         {% if page.author %}
@@ -17,7 +17,14 @@ layout: default
         {% endif %}</p>
     </header>
 
-    {{ content }}
+    <div class="intro">
+      <p>{{ page.intro }}</p>
+    </div>
+
+    <div class="content-wrapper">
+      {{ content }}
+    </div>
+
   </div>
 
   {% if site.disqus.shortname %}
