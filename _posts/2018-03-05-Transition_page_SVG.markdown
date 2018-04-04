@@ -5,7 +5,7 @@ date:   2018-03-10 10:34:58 +0100
 intro :
 categories: WEBDESIGN
 preview: 2018-03-10-Transition_page_SVG-preview.jpg
-main-image: 2018-03-10-Transition_page_SVG-main-image.jpg
+main-image: 2018-03-10-Transition_page_SVG-main.jpg
 ---
 
 ** Article traduit directement de Codrops, écrit par Mary Lou - https://tympanus.net/codrops/2017/08/08/morphing-page-transition/ **
