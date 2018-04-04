@@ -4,8 +4,8 @@ title:  Facebook container par Firefox
 date:   2018-04-04 14:37:58 +0100
 intro:  Utiliser Facebook tout en limitant la capacité de l'entreprise à récolter les données de nos activités en ligne.
 categories: OUTILS / UX
-preview : 2018-04-04-facebookcontainer.jpg
-main-image : 2018-04-04-facebookcontainer-mainimg.jpg
+preview : 2018-04-04-facebookcontainer-preview.jpg
+main-image : 2018-04-04-facebookcontainer-main.jpg
 ---
 
 

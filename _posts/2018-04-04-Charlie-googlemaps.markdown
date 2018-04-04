@@ -4,8 +4,8 @@ title:  Où est Charlie ? Dans Google maps !
 date:   2018-04-04 15:00:00 +0100
 intro:  Le fameux personnage au bonnet rouge et blanc apparaît cette semaine dans l’application mobile de Google.
 categories: WOW EFFECT
-preview : 22018-04-04-charliegooglemaps.jpg
-main-image : 2018-04-04-charliegooglepas-mainimg.jpg
+preview : 22018-04-04-charliegooglemaps-preview.jpg
+main-image : 2018-04-04-charliegooglepas-main.jpg
 ---
 
 Cette blague du 1er avril est sûrement celle qui en a fait sourire et scroller plus d’un.

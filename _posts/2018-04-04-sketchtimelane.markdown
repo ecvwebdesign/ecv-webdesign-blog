@@ -4,8 +4,8 @@ title:  "Sketch Timelane"
 date:   2018-04-04 14:27:58 +0100
 intro : Créer des annimations directement dans Sketch c'est maintenant possible avec Timelane
 categories: OUTILS
-preview : 2018-04-04-SketchTimelane.jpg
-main-image : 2018-04-04-sketchTimelane-mainimg.jpg
+preview : 2018-04-04-SketchTimelane-preview.jpg
+main-image : 2018-04-04-sketchTimelane-main.jpg
 ---
 
 Wow ! C’est sûrement une des meilleures nouvelles de ce début d’année : il est maintenant possible de créer ou exporter des animations sur Sketch.
