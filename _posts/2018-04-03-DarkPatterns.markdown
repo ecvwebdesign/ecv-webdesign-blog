@@ -9,6 +9,8 @@ preview : 2018-04-03-DarkPatterns.jpg
 
 ![CHATBOT](../../../../../assets/images/2018-04-03-DarkPatterns.jpg){:class="img-responsive"}
 
+![DEVS STREAM](../../../../../assets/images/2018-04-03-DarkPatterns-main.jpg){:class=“img-responsive”}
+
 Les darks patterns sont des techniques de design graphique dont le but est de “piéger” l’utilisateur afin de l'amener à faire diverses choses qu’il ne souhaite pas. Depuis longtemps, les darks patterns existent un peu partout, on peut en trouver sur des applications ou sur des sites d’e-commerce tels qu’Amazon par exemple. Le but étant généralement que l’utilisateur souscrive à des services payants en cliquant sur un bouton, ou encore que ces sites aient accès à nos données sans qu’on ne l’ait accepté au préalable.
 Cette <a href="https://www.youtube.com/watch?time_continue=326&v=kxkrdLI6e6M">vidéo</a>  peut t’aider à comprendre concrètement à quoi ressemblent ces techniques.
 
