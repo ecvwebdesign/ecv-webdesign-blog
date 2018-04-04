@@ -3,11 +3,10 @@ layout: post
 title:  "Persona : pourquoi continuer à en faire (ou pas) ?"
 date:   2018-03-27 14:00:00 +0100
 intro: Face au “Jobs-to-be-done”, le persona est-il encore utile ?
-
-categories: jekyll update
+categories: UI
+preview: 2018-03-27-persona-JTBD-preview.jpg
+main-image: 2018-03-27-persona-JTBD-main-image.jpg
 ---
-
-![persona-JTBD screenshot](../../../../../assets/images/2018-03-27-persona-JTBD/2018-03-27-persona-JTBD-01.jpg){:class="img-responsive"}
 
 L’utilité des personas est petit à petit remise en question. Malgré un fort ancrage outre-atlantique, le “Job-To-Be-Done” essaie de les remplacer. Pourtant, rine ne les empêche de cohabiter. Si ces deux outils ont les mêmes objectifs, leur approche est totalement différente. Le persona est centré sur l’utilisateur, ses habitudes et sa façon de faire, là ou le Job-To-Be-Done se concentre plus sur le résultat.
 
