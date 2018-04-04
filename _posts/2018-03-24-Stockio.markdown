@@ -4,10 +4,11 @@ title:  "Stockio"
 date: 2018-03-24 10:34:58 +0100
 intro : Stockio, un site de ressources libres de droits pour les web designers.
 categories: OUTILS
+preview : 2018-04-04-Stockio-preview.jpg
+main-image : 2018-04-04-Stockio-main.jpg
 ---
-Les pictogrammes ne sont pas tes meilleurs amis ? Marre d'aller sur Freepik ou encore The Noun Project ne sachant pas dans quelle direction chercher ? Assez des photos de mauvaise qualité ou décorées d'un gros "Istock" ou "Fotolia" impossible à effacer sur photoshop ? Tu vas pouvoir découvrir ici Stockio, le nouveau site de ressources libres de droits regroupant photos, vecteurs, icônes et même des polices et des vidéos. Grâce à Stockio, tu vas pouvoir compléter ta boîte à outils de web designer.
 
-![Stockio website screenshot](../../../../../assets/images/2018-03-27-Stockio.jpg){:class="img-responsive"}
+Les pictogrammes ne sont pas tes meilleurs amis ? Marre d'aller sur Freepik ou encore The Noun Project ne sachant pas dans quelle direction chercher ? Assez des photos de mauvaise qualité ou décorées d'un gros "Istock" ou "Fotolia" impossible à effacer sur photoshop ? Tu vas pouvoir découvrir ici Stockio, le nouveau site de ressources libres de droits regroupant photos, vecteurs, icônes et même des polices et des vidéos. Grâce à Stockio, tu vas pouvoir compléter ta boîte à outils de web designer.
 
 Contrairement à d'autres sites de ressources libres de droits, ce site va te faire gagner du temps puisqu'il est spécialement conçu pour toi, (futur) web designer en chef ! Si tu jettes un oeil à cet article, tu pourras voir qu'en plus d'avoir une multitude de choix bien triés, tu trouveras même des gros packs d'îcones d'une même collection, automatiquement classés par catégories dans ce même pack (général, numérique, e-commerce, web, etc) pour toutes les plateformes que tu souhaites créer pour tous types de supports ! Fini le téléchargement d'îcones un par un, fini les photos de basse qualité et/ou payantes... Stockio ne pourra que te faciliter la vie, alors fonce !
 

@@ -4,7 +4,10 @@ title:  « CSS Hat pour Photoshop»
 date:   2018-03-27 10:34:58 +0100
 intro: CSS Hat transforme les styles de calque Photoshop en CSS3, maintenant disponible sur Windows et Mac.
 categories: Outils
+preview : 2018-04-04-CSS-Hat-pour-Photoshop-preview.jpg
+main-image : 2018-04-04-CSS-Hat-pour-Photoshop-main.jpg
 ---
+
 CSS Hat est un plugin Photoshop simple et très utile qui génère des CSS3 basés sur vos calques de styles Photoshop. C'est sûrement l'un des plugins Photoshop les plus utiles que j'aie jamais vu, et maintenant après beaucoup de demande (depuis le succès rencontré sur Mac), l'équipe sort CSS Hat sur Windows aujourd'hui.
 
 Bien sûr, ce plugin de 20$ ne peut pas faire tout votre travail pour vous - il y a des limites dans CSS3 qui l'empêchent de rendre avec précision des choses comme le satin et les superpositions de motifs (note : les propriétés de police arrivent bientôt) - mais quand même, c'est un grand gain de temps, d'autant plus que CSS3 est nouveau et doit encore être martelé dans l'esprit de nombreux web designers.
