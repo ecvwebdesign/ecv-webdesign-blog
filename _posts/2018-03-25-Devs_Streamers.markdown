@@ -15,4 +15,4 @@ Mais ce que tu ignores peut-être, c’est que les DEVS streament aussi ! Compli
 
 Aucun soucis, voici un lien Github : https://github.com/bnb/awesome-developer-streams qui référence la plupart des devstreamers (ça en jette non ?).
 
-Alors quitte le stream de Ninja ou Dr.Disrespect et va dire bonjour (emote HelloGuys), allez allez !
+Alors quitte le stream de Ninja ou Dr.Disrespect et va dire bonjour (emote HeyGuys), allez allez !
