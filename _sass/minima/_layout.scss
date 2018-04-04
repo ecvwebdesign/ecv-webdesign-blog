@@ -177,9 +177,17 @@
 /**
  * Page content
  */
-.page-content {
-  padding: $spacing-unit 0;
+
+article {
+  overflow: hidden;
+  max-width: 1280px;
+  margin : 0 auto;
 }
+
+.page-content {
+  padding: 0;
+}
+
 
 .page-heading {
   @include relative-font-size(1.25);
@@ -209,9 +217,11 @@
   color: $grey-color;
 }
 
+
+
 .post-link {
-  display: block;
-  @include relative-font-size(1.5);
+  float : right;
+  color : $brand-color;
 }
 
 
@@ -221,9 +231,18 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  .post-meta {
+    text-align : center;
+    border-bottom : 2px solid red;
+    padding-bottom: 1em;
+  }
+
 }
 
 .post-title {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 2em;
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
@@ -234,8 +253,21 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
-
+<<<<<<< HEAD
+  margin: 360px auto $spacing-unit auto;
+  padding: 6em 6em 12em;
+  background-color: white;
+  max-width: 960px;
+  .content-wrapper {
+    max-width: 750px;
+    margin: 0 auto;
+  }
+=======
+  margin: 16em auto $spacing-unit auto;
+  padding: 6em 6em 12em;
+  background-color: white;
+  max-width: 960px;
+>>>>>>> 5fda2c8ee186672e64fdf43dddb1efb90631e784
   h2 {
     @include relative-font-size(2);
 

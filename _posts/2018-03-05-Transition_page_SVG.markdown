@@ -2,8 +2,10 @@
 layout: post
 title:  "Transition de pages 'morphing' en SVG"
 date:   2018-03-10 10:34:58 +0100
-intro : 
-categories: webdesign traduction
+intro :
+categories: WEBDESIGN
+preview: 2018-03-10-Transition_page_SVG-preview.jpg
+main-image: 2018-03-10-Transition_page_SVG-main.jpg
 ---
 
 ** Article traduit directement de Codrops, écrit par Mary Lou - https://tympanus.net/codrops/2017/08/08/morphing-page-transition/ **
@@ -42,6 +44,9 @@ Le code qui nous permet de faire bouger la forme avec la page d'introduction est
 
 Le contenu fixe (content--fixed) se situe en dessous du contenue de l'introduction (content--intro). Quand l'introduction se déplace, le contenu fixe est révélé. En même temps, nous transformon le chemin SVG en un autre défini dans le "pathdata:id". Quand nous créeons les deux chemins, nous devons être sur qu'ils possédent le même nombre de points pour avoir une transition fluide et lisse.
 Nous espérons que vous aimerez ce petit effet et qu'il vous sera utile !
+
+![Transition_page_SVG screenshot](../../../../../assets/images/2018-03-10-Transition_page_SVG-01.jpg){:class="img-responsive"}
+![Transition_page_SVG screenshot](../../../../../assets/images/2018-03-10-Transition_page_SVG-02.jpg){:class="img-responsive"}
 
 anime.js : http://animejs.com/
 Charming : https://github.com/yuanqing/charming

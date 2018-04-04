@@ -179,8 +179,7 @@ pre {
  */
 .wrapper {
     min-width: 320px;
-      width: 90%;
-      margin: 0 auto;
+    margin: 0 auto;
 }
 
 
@@ -231,4 +230,10 @@ pre {
   margin: 0 auto;
   border-radius: 100%;
   background-color: #fff;
+}
+
+.intro p {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom : 2em;
 }
