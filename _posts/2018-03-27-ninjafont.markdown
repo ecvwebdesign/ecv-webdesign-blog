@@ -3,8 +3,7 @@ layout: post
 title:  "Trouver quelle police est utilisée sur un site web ? "
 date:   2018-03-27 22:34:58 +0100
 intro : Tu cherches le nom de la font qui est utilisée pour ce Titre ? What the font pourrait t’aider !
-categories: outils
-
+categories: OUTILS
 preview : 2018-03-28-Whatthefont-preview.jpg
 main-image : 2018-03-28-Whatthefont-main.jpg
 ---
