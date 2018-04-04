@@ -4,7 +4,8 @@ title:  "Diaporama effet glitch"
 date:   2018-04-04 10:34:58 +0100
 intro : Un diaporama utilisant un effet glitch en CSS pour la transition entre les images.
 categories: UI
-preview : 2018-04-04-UX-UI-difference-preview-02.jpg
+main-image: 2018-04-04-UX-UI-difference-main-image.jpg
+preview : 2018-04-04-UX-UI-difference-preview.jpg
 ---
 
 ![diaporama-glitch-effect screenshot](../../../../../assets/images/2018-04-04-diaporama-effet-glitch-01.jpg){:class="img-responsive"}
