@@ -2,7 +2,7 @@
 layout: post
 title:  "The Typekit blog"
 date:   2018-04-04 10:06:58 +0100
-categories: Outils
+categories: OUTILS
 intro: Adobe et Typekit
 preview : 2018-04-04-typekit-preview.jpg
 main-image : 2018-04-04-typekit-main.jpg

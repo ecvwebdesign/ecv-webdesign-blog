@@ -2,7 +2,7 @@
 layout: post
 title:  "Les codes de l'humour en webdesign"
 date:   2018-04-04 11:05:58 +0100
-categories: Code
+categories: CODE
 intro: Le CSS et l'humour
 preview : 2018-04-04-blaguecss-preview.jpg
 main-image : 2018-04-04-blaguecss-main.jpg

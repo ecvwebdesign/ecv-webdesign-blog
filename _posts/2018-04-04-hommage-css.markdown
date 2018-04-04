@@ -2,7 +2,7 @@
 layout: post
 title:  "Hommage en CSS au style typographique international"
 date:   2018-04-04 10:29:58 +0100
-categories: Code
+categories: CODE
 intro: Design et CSS
 preview : 2018-04-04-hommagecss-preview.jpg
 main-image : 2018-04-04-hommagecss-main.jpg

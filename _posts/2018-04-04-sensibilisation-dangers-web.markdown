@@ -2,7 +2,7 @@
 layout: post
 title:  "La culture geek pour lutter contre les dangers d'internet"
 date:   2018-04-04 11:46:58 +0100
-categories: Histoire
+categories: HISTOIRE
 intro: Culture geek et dangers d'internet
 preview : 2018-04-04-nordnet-preview.jpg
 main-image : 2018-04-04-nordnet-main.jpg
