@@ -15,9 +15,7 @@ layout: default
 
         <img src="assets/images/{{ post.preview }}" alt="image">
         <span class="post-cat">{{ post.categories }}</span>
-        <h2>
-          {{ post.title | escape }}
-        </h2>
+        <h2>{{ post.title | escape }}</h2>
         <p>{{ post.intro }}</p>
         <span class="post-meta">Le {{ post.date | date: date_format }} <a class="post-link" href="{{ post.url | relative_url }}">Lire</a></span>
       </li>

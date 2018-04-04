@@ -4,9 +4,10 @@ title:  "Le Seam Carving"
 date:   2018-03-21 10:34:58 +0100
 intro: Si vous aussi vous avez peur des images déformées, des images trop grandes, ou trop petites pour être à leur place... cet article est fait pour vous !
 categories: OUTILS CODE
+preview : 2018-03-21-Seam-Carving-preview.jpg
+main-image : 2018-03-21-Seam-Carving-main.jpg
 ---
 
-![SEAM CARVING](../../../../../assets/images/2018-03-21-Seam-Carving.jpg){:class="img-responsive"}
 
 Qu’est-ce que le Seam Carving ? C’est littéralement le rognage des contours d’une photo. Ariel Shamir et Shai Avidan sont deux chercheurs qui ont trouvé (pun non-intended) un algorithme permettant de redimensionner n’importe quelle image sans pour autant la déformer. (Comme vous l’avez probablement déjà fait…)
 On connait tous ce moment où la photo que l’on veut utiliser en hero section - par exemple - n’est pas à la bonne taille. Frustrant n’est-ce pas ? Tu entrevois le lancement de Photoshop juste pour resizer une image ?
