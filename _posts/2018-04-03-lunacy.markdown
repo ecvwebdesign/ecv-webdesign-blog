@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Windows loves Sketch"
+date:   2018-04-03 14:00:00 +0100
+intro:  Un outil qui réconcilie les utilisateurs de Windows avec Sketch.
+categories: Outils
+preview : 2018-04-03-lunacy-preview.jpg
+main-image : 2018-04-03-lunacy-main.jpg
+---
+
+Nous pensons aussi à toi, utilisateur de Windows, espèce en voie de disparition. Cet article t'est même destiné !
+
+On sait que la plupart des développeurs ont un penchant pour le bébé de Bill Gates ; aussi, la transmission de maquettes réalisées sur Sketch peut constituer un vrai problème.
+
+Le logiciel dont on te parle dans cet article a été conçu pour résoudre ce genre de situations. S'il permet dans un premier temps d'ouvrir et d'éditer un fichier Sketch, il te permet aussi d'intégrer et de récupérer des données css.
+Le pont entre webdesigners et développeurs devient de plus en plus facile à franchir et ce grâce à des outils de ce type.
+
+Tu peux en apprendre un peu plus sur Lunacy par <a href="https://newflux.fr/2017/03/20/logiciel-permet-de-visualiser-fichiers-sketch-windows/">ici</a> ou <a href="https://www.hongkiat.com/blog/view-edit-sketch-files-windows-lunacy/">là</a> si tu aimes l'anglais.
+
+Et si tu veux télécharger l'outil, c'est par <a href="https://icons8.com/lunacy">là</a>.   
