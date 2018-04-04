@@ -177,8 +177,15 @@
 /**
  * Page content
  */
+
+article {
+  overflow: hidden;
+  max-width: 1280px;
+  margin : 0 auto;
+}
+
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 0;
 }
 
 .page-heading {
@@ -234,8 +241,10 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
-
+  margin: 16em auto $spacing-unit auto;
+  padding: 6em 6em 12em;
+  background-color: white;
+  max-width: 960px;
   h2 {
     @include relative-font-size(2);
 
