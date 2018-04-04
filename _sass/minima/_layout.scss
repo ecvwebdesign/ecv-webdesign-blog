@@ -253,6 +253,7 @@ article {
 }
 
 .post-content {
+<<<<<<< HEAD
   margin: 360px auto $spacing-unit auto;
   padding: 6em 6em 12em;
   background-color: white;
@@ -261,6 +262,12 @@ article {
     max-width: 750px;
     margin: 0 auto;
   }
+=======
+  margin: 16em auto $spacing-unit auto;
+  padding: 6em 6em 12em;
+  background-color: white;
+  max-width: 960px;
+>>>>>>> 5fda2c8ee186672e64fdf43dddb1efb90631e784
   h2 {
     @include relative-font-size(2);
 
