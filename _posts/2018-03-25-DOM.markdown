@@ -6,6 +6,10 @@ intro : Un jour, dans un tuto pour apprendre Jquery, on m’a parlé du DOM, tu 
 categories: histoire
 ---
 
+
+![CHATBOT](../../../../../assets/images/2018-03-28-DOM.jpg){:class="img-responsive"}
+
+
 Bon, effectivement, pour moi aussi ça a été un peu obscur la première fois…  Alors, regardons cela de plus près !
 
 Le DOM est-il le HTML que j'écris ?
