@@ -4,11 +4,11 @@ title:  "JPEG,PNG ou GIF ?"
 date:   2018-04-03 10:34:58 +0100
 intro: "La trinité de l’horreur : JPEG, PNG et GIF. Lequel choisir, quand et pourquoi ?"
 preview : 2018-04-03-formats-images-preview.jpg
+main-image : 2018-04-03-formats-images-main.jpg
 
 categories: OUTILS
 ---
 
-![FORMAT IMAGE](../../../../../assets/images/2018-04-03-formats-images-main.jpg){:class="img-responsive"}
 
 Les bons formats d'image, qui nous triturent l’esprit tellement souvent - du moins au début - qu’on en oublie leurs avantages et inconvénients et qu’on balance un PNG à tout va en pensant qu’on a assuré.
 
