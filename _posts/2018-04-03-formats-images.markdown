@@ -8,6 +8,7 @@ preview : 2018-04-03-formats-images-preview.jpg
 categories: OUTILS
 ---
 
+![FORMAT IMAGE](../../../../../assets/images/2018-04-03-formats-images-main.jpg){:class="img-responsive"}
 
 Les bons formats d'image, qui nous triturent l’esprit tellement souvent - du moins au début - qu’on en oublie leurs avantages et inconvénients et qu’on balance un PNG à tout va en pensant qu’on a assuré.
 

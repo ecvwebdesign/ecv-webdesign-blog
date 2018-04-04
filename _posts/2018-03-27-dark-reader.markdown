@@ -8,7 +8,7 @@ preview : 2018-03-25-Dark-Reader-preview.jpg
 categories: OUTILS
 ---
 
-![DEVS STREAM](../../../../../assets/images/2018-03-25-Dark-Reader-content.jpg){:class="img-responsive"}
+![DEVS STREAM](../../../../../assets/images/2018-03-25-Dark-Reader-main.jpg){:class="img-responsive"}
 
 Oh ! Bonjour !
 

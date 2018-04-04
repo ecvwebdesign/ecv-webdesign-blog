@@ -7,7 +7,7 @@ categories: OUTILS CODE
 preview : 2018-03-25-devstreamers-preview.jpg
 ---
 
-![DEVS STREAM](../../../../../assets/images/2018-03-25-devstreamers-content.jpg){:class="img-responsive"}
+![DEVS STREAM](../../../../../assets/images/2018-03-25-devstreamers-main.jpg){:class="img-responsive"}
 
 Peut être aimes-tu, après une journée fatigante, rentrer chez toi et allumer ton PC (ou Macintosh, on ne juge pas) et te connecter à Twitch.tv, afin de te détendre devant de bons petits streams vidéo-ludiques. Un peu de Player’s Unknown Battlegrounds, de Fortnite ou encore d’Overwatch ici et là.
 
