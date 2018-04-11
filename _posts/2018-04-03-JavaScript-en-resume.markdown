@@ -6,7 +6,7 @@ intro: Histoire d'un langage longtemps sous-estimé.
 categories: Histoire
 ---
 
-JavaScript alias JS nait de "la guerre des navigateurs" entre Netsape et Microsoft qui a eu lieu dans les années 90.
+Javascript alias JS naît de "la guerre des navigateurs" entre Netsape et Microsoft qui a eu lieu dans les années 90.
 En 1995 Netscape fait appel à Brendan Eich pour créer un langage qui permet d'appliquer des effets sur une page web.
 Basé sur du java, le langage devait être simple, puissant et éviter l'apprentissage du java orienté "entreprise".
 En seulement 10 jours, Brendan crée un prototype appelé Mocha, il deviendra ensuite LiveScript et sera définitivement renommé JavaScript pour des raisons marketing qui seront néfastes pour son évolution.
